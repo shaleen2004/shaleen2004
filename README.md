@@ -53,6 +53,17 @@ APIs, data platforms and full-stack apps that **stay up**: Flask/React services,
 - Cuts work that took analysts **weeks down to minutes**, and every figure traces back to its source document.
 - A **live SaaS** used across the company and by client teams, with a web app, a **native iOS app** and a partner API.
 
+<br/>
+
+<img src="assets/tev-studio-v1.svg" alt="TEV Studio" width="100%"/>
+
+**TEV Studio is Atlas's Techno-Economic Viability report workflow** — a 5-chapter TEV generator (technical feasibility, industry & marketing feasibility, financial viability, SWOT/risk and critical success factors) with its own chat assistant on top.
+- Generates chapters individually or as a full report, each grounded in the company's uploaded financial model and documents.
+- A dedicated chatbot lets an analyst ask "section 8.2 needs more detail" and have **only that section** edited in place — no full chapter regeneration or re-billing.
+- "Convert to Word" reproduces the **original template's exact styling**, not a generic markdown export.
+- Validates a client's draft financial model against the final one and flags discrepancies automatically.
+- Tracked with a **real per-call Gemini + Claude cost ledger**, and extended with a Debt Syndication prototype (document upload, MCA pull, checklist, chat).
+
 ---
 
 ## 03 — Technical toolbox
